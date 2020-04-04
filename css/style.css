@@ -1,0 +1,33 @@
+.block-content {
+  width: 990px;
+  margin: auto;
+}
+.category{
+  border: 1px solid #ddd;
+  margin-bottom: 30px;
+}
+.category-title {
+  border-bottom: 2px solid #50bba1;
+}
+.category-title a {
+  min-height: 50px;
+  display: block;
+  padding: 15px;
+}
+a {
+  background: transparent;
+}
+.large-4 {
+  width: 33.33333%;
+}
+
+@media screen and (min-width: 970px){
+
+}
+
+.columns{
+  float: right;
+  padding-right: 0.625rem;
+  padding-left: 0.625rem;
+  box-sizing: border-box;
+}
